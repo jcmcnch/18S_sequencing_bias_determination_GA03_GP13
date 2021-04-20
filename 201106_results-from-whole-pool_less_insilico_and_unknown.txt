@@ -1,0 +1,11 @@
+USC run:
+
+There were 25629082 total PROK seqs.
+There were 984999 total EUK seqs.
+The total run-specific EUK fraction is .03701044
+
+UC Davis run:
+
+There were 13298474 total PROK seqs.
+There were 535191 total EUK seqs.
+The total run-specific EUK fraction is .03868757

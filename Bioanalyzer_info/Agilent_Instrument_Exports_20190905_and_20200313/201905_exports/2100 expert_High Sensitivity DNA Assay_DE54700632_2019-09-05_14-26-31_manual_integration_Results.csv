@@ -1,0 +1,261 @@
+Data File Name,2100 expert_High Sensitivity DNA Assay_DE54700632_2019-09-05_14-26-31_manual_integration.xad
+Data File Path,E:\201905_exports
+Date Created,"Thursday, September 05, 2019 2:26:30 PM"
+Date Last Modified,"Monday, November 02, 2020 4:54:25 PM"
+Version Created,B.02.08.SI648
+Version Last Modified,B.02.08.SI648
+ 
+Assay Name,High Sensitivity DNA
+Assay Path,C:\Program Files\Agilent\2100 bioanalyzer\2100 expert\assays\dsDNA
+Assay Title,High Sensitivity DNA Assay
+Assay Version,1.03
+ 
+Number of Samples Run,11
+ 
+Sample Name,sample 1
+ 
+Peak Table
+Size [bp],Conc. [pg/µl],Molarity [pmol/l],Observations,Area,Aligned Migration Time [s],Peak Height,Peak Width,% of Total,Time corrected area
+35,125.00,"5,411.3",Lower Marker,36.5,43.00,87.5,1.0,0.0,83.6
+320,5.31,25.1,,3.8,71.06,5.9,0.7,0.4,5.2
+326,10.43,48.4,,7.6,71.53,11.5,0.9,0.8,10.3
+344,9.13,40.3,,7.0,72.95,7.9,0.9,0.7,9.3
+354,10.04,43.0,,7.8,73.76,9.6,0.9,0.8,10.3
+369,16.04,65.8,,13.0,75.04,11.0,1.2,1.3,16.8
+383,16.67,65.9,,13.9,76.18,12.8,1.1,1.4,17.7
+424,17.17,61.4,,15.2,78.88,16.6,0.9,1.5,18.6
+552,658.44,"1,806.0",,668.0,85.65,133.4,9.9,59.8,753.1
+679,57.72,128.8,,62.2,90.30,62.3,1.0,5.3,66.5
+732,112.02,231.9,,122.9,91.39,68.6,1.8,10.3,129.7
+891,34.48,58.6,,41.5,93.52,57.2,0.7,3.4,42.8
+958,140.97,222.9,,176.4,94.42,54.3,5.8,14.3,180.1
+"10,380",75.00,10.9,Upper Marker,133.8,113.00,127.3,3.4,0.0,113.8
+"12,920",0.00,0.0,,3.5,115.27,5.9,0.6,0.0,2.9
+"13,449",0.00,0.0,,4.5,115.75,7.6,0.8,0.0,3.8
+"21,864",0.00,0.0,,2.6,123.28,9.2,0.7,0.0,2.0
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Average Size [bp],Size distribution in CV [%],Conc. [pg/µl],Molarity [pmol/l],Color
+Region 1,60.26,94.98,"1,298.2",86,602,25.6,"1,140.83","3,144.4",12930121
+ 
+ 
+Sample Name,sample 2
+ 
+Peak Table
+Size [bp],Conc. [pg/µl],Molarity [pmol/l],Observations,Area,Aligned Migration Time [s],Peak Height,Peak Width,% of Total,Time corrected area
+35,125.00,"5,411.3",Lower Marker,44.0,43.00,104.3,1.0,0.0,100.8
+261,28.18,163.8,,20.0,65.81,9.3,2.7,1.6,29.7
+274,14.45,79.9,,10.6,67.01,10.5,1.1,0.9,15.4
+295,19.65,100.8,,15.2,68.97,13.5,1.2,1.2,21.5
+307,11.33,56.0,,9.0,69.93,14.2,0.6,0.7,12.6
+329,11.97,55.1,,10.1,71.76,16.3,0.6,0.8,13.6
+339,13.54,60.6,,11.6,72.53,17.2,0.7,0.9,15.6
+356,16.96,72.3,,15.2,73.92,18.5,0.8,1.1,20.0
+388,13.74,53.7,,13.2,76.51,21.0,0.6,0.9,16.8
+402,22.44,84.5,,22.2,77.66,23.4,1.0,1.5,27.8
+433,42.67,149.4,,43.2,79.39,30.0,1.6,2.9,53.0
+553,817.16,"2,238.9",,944.3,85.68,196.0,9.0,59.2,"1,071.2"
+657,40.51,93.4,,49.8,89.62,67.8,0.7,3.0,54.0
+680,36.06,80.3,,44.2,90.34,69.2,0.6,2.6,47.6
+711,133.19,283.8,,164.1,91.11,73.8,2.4,9.7,174.9
+858,145.53,257.0,,195.6,93.08,54.4,5.9,11.3,204.1
+"1,616",4.80,4.5,,7.9,99.03,11.9,0.7,0.4,7.7
+"1,820",2.43,2.0,,4.1,100.37,7.0,0.6,0.2,4.0
+"2,325",2.17,1.4,,3.9,102.63,6.4,0.7,0.2,3.6
+"3,317",2.23,1.0,,4.0,105.27,6.2,0.7,0.2,3.7
+"3,656",2.19,0.9,,4.0,105.70,7.1,0.6,0.2,3.7
+"4,784",2.15,0.7,,3.9,107.14,6.2,0.6,0.2,3.6
+"6,964",2.34,0.5,,4.3,109.93,6.2,0.8,0.2,3.8
+"7,968",1.74,0.3,,3.3,110.84,6.0,0.6,0.1,2.9
+"10,380",75.00,10.9,Upper Marker,152.0,113.00,147.1,2.4,0.0,130.4
+"11,988",0.00,0.0,,8.2,114.44,14.4,0.7,0.0,6.9
+"12,953",0.00,0.0,,8.2,115.30,11.1,0.8,0.0,6.9
+"14,025",0.00,0.0,,8.3,116.26,7.8,1.3,0.0,7.0
+"15,848",0.00,0.0,,5.1,117.90,5.6,1.1,0.0,4.2
+"16,920",0.00,0.0,,3.4,118.86,5.3,0.7,0.0,2.8
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Average Size [bp],Size distribution in CV [%],Conc. [pg/µl],Molarity [pmol/l],Color
+Region 1,60.26,94.98,"1,873.3",88,559,27.1,"1,467.44","4,480.8",12930121
+ 
+ 
+Sample Name,sample 3
+ 
+Peak Table
+Size [bp],Conc. [pg/µl],Molarity [pmol/l],Observations,Area,Aligned Migration Time [s],Peak Height,Peak Width,% of Total,Time corrected area
+35,125.00,"5,411.3",Lower Marker,29.8,43.00,70.0,1.1,0.0,68.7
+553,509.73,"1,396.5",,354.6,85.68,95.8,10.8,72.0,407.1
+710,198.00,422.4,,146.7,91.10,25.9,17.4,28.0,158.4
+"10,380",75.00,10.9,Upper Marker,91.4,113.00,95.5,2.3,0.0,79.4
+"13,103",0.00,0.0,,5.3,115.44,7.1,1.1,0.0,4.5
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Average Size [bp],Size distribution in CV [%],Conc. [pg/µl],Molarity [pmol/l],Color
+Region 1,60.26,94.98,520.0,88,596,18.5,650.34,"1,709.6",12930121
+ 
+ 
+Sample Name,sample 4
+ 
+Peak Table
+Size [bp],Conc. [pg/µl],Molarity [pmol/l],Observations,Area,Aligned Migration Time [s],Peak Height,Peak Width,% of Total,Time corrected area
+35,125.00,"5,411.3",Lower Marker,36.1,43.00,87.8,1.0,0.0,84.2
+190,19.85,158.6,,8.9,59.29,14.7,1.1,1.8,15.1
+553,654.61,"1,792.4",,578.9,85.70,142.3,12.5,78.9,675.2
+746,157.86,320.6,,151.9,91.58,25.1,18.6,19.3,165.7
+"10,380",75.00,10.9,Upper Marker,116.0,113.00,122.0,3.1,0.0,102.5
+"13,273",0.00,0.0,,5.6,115.59,7.2,0.8,0.0,4.8
+"13,774",0.00,0.0,,4.1,116.04,8.3,0.6,0.0,3.5
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Average Size [bp],Size distribution in CV [%],Conc. [pg/µl],Molarity [pmol/l],Color
+Region 1,60.26,94.98,804.5,85,579,18.5,783.99,"2,121.1",12930121
+ 
+ 
+Sample Name,sample 5
+ 
+Peak Table
+Size [bp],Conc. [pg/µl],Molarity [pmol/l],Observations,Area,Aligned Migration Time [s],Peak Height,Peak Width,% of Total,Time corrected area
+35,125.00,"5,411.3",Lower Marker,43.3,43.00,104.2,1.0,0.0,101.9
+243,17.06,106.5,,10.5,64.16,9.0,1.6,0.4,16.6
+269,47.95,269.8,,31.6,66.59,18.6,2.3,1.1,48.0
+311,141.70,690.5,,103.3,70.28,39.4,3.6,3.3,148.7
+476,"1,015.84","3,234.0",,963.5,81.87,134.0,11.6,26.2,"1,190.9"
+490,94.02,290.7,,90.1,82.68,142.1,0.7,2.4,110.3
+505,143.77,431.1,,139.9,83.49,152.8,1.0,3.7,169.6
+530,165.29,472.9,,166.9,84.61,165.0,1.1,4.4,199.6
+547,130.97,362.7,,135.7,85.42,174.4,0.8,3.5,160.8
+567,169.28,452.3,,180.6,86.33,186.6,1.0,4.7,211.7
+600,229.66,579.7,,256.8,87.84,207.7,1.3,6.5,295.9
+717,611.65,"1,292.8",,683.4,91.19,252.4,2.9,16.7,758.5
+838,143.04,258.7,,171.7,92.80,266.7,0.7,4.1,187.2
+891,784.03,"1,333.9",,970.2,93.51,267.7,7.8,23.0,"1,050.0"
+"10,380",75.00,10.9,Upper Marker,137.1,113.00,148.7,3.3,0.0,122.8
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Average Size [bp],Size distribution in CV [%],Conc. [pg/µl],Molarity [pmol/l],Color
+Region 1,60.26,94.98,"4,572.3",87,598,31.3,"3,770.28","11,154.5",12930121
+ 
+ 
+Sample Name,sample 6
+ 
+Peak Table
+Size [bp],Conc. [pg/µl],Molarity [pmol/l],Observations,Area,Aligned Migration Time [s],Peak Height,Peak Width,% of Total,Time corrected area
+35,125.00,"5,411.3",Lower Marker,29.4,43.00,71.8,1.1,0.0,69.8
+63,29.12,701.5,,7.0,46.79,13.6,1.4,1.9,15.3
+556,753.67,"2,052.1",,511.0,85.84,130.7,11.5,77.2,608.7
+712,204.02,434.2,,146.7,91.12,28.9,19.2,20.9,164.6
+"10,380",75.00,10.9,Upper Marker,88.4,113.00,103.0,3.1,0.0,80.1
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Average Size [bp],Size distribution in CV [%],Conc. [pg/µl],Molarity [pmol/l],Color
+Region 1,60.26,94.98,738.2,87,583,17.9,919.76,"2,468.3",12930121
+ 
+ 
+Sample Name,sample 7
+ 
+Peak Table
+Size [bp],Conc. [pg/µl],Molarity [pmol/l],Observations,Area,Aligned Migration Time [s],Peak Height,Peak Width,% of Total,Time corrected area
+32,0.00,0.0,,3.9,42.00,5.8,1.2,0.0,9.4
+35,125.00,"5,411.3",Lower Marker,33.1,43.00,82.2,1.0,0.0,78.8
+129,4.65,54.5,,2.2,53.64,6.2,0.9,0.0,4.3
+355,"2,142.92","9,147.8",,"1,894.9",73.86,240.7,15.7,25.5,"2,652.1"
+440,"1,527.93","5,257.8",,"1,540.7",79.83,302.0,5.9,19.2,"1,997.1"
+466,212.64,691.5,,218.6,81.30,314.1,0.7,2.7,278.3
+494,525.77,"1,611.5",,552.0,82.93,331.8,1.8,6.6,689.1
+556,734.44,"2,002.4",,841.1,85.81,355.5,2.6,9.8,"1,015.2"
+599,584.29,"1,477.6",,712.0,87.80,373.8,2.0,8.1,840.1
+652,283.83,659.1,,344.4,89.47,385.9,0.9,3.8,398.8
+684,208.77,462.2,,252.3,90.47,388.8,0.7,2.8,289.0
+765,"1,462.81","2,896.7",,"1,834.9",91.83,386.0,10.2,19.9,"2,071.0"
+"2,593",15.95,9.3,,28.1,103.52,33.9,0.9,0.3,28.1
+"2,988",15.23,7.7,,27.1,104.83,34.6,0.8,0.3,26.8
+"3,667",12.75,5.3,,22.8,105.72,35.5,0.7,0.2,22.3
+"4,078",14.71,5.5,,26.3,106.24,35.7,0.8,0.2,25.7
+"6,129",15.37,3.8,,27.7,108.86,31.5,0.9,0.3,26.5
+"8,683",10.42,1.8,,19.8,111.48,29.0,0.7,0.3,18.4
+"10,380",75.00,10.9,Upper Marker,149.2,113.00,107.6,3.2,0.0,137.1
+"13,130",0.00,0.0,,32.2,115.46,25.7,1.4,0.0,29.0
+"20,033",0.00,0.0,,10.9,121.65,14.3,0.8,0.0,9.3
+"22,900",0.00,0.0,,8.8,124.21,11.4,0.9,0.0,7.3
+"27,639",0.00,0.0,,5.8,128.46,6.9,1.0,0.0,4.7
+"28,985",0.00,0.0,,3.3,129.66,5.6,0.7,0.0,2.7
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Average Size [bp],Size distribution in CV [%],Conc. [pg/µl],Molarity [pmol/l],Color
+Region 1,60.26,94.98,"10,813.5",88,519,36.0,"8,300.71","29,303.9",12930121
+ 
+ 
+Sample Name,sample 8
+ 
+Peak Table
+Size [bp],Conc. [pg/µl],Molarity [pmol/l],Observations,Area,Aligned Migration Time [s],Peak Height,Peak Width,% of Total,Time corrected area
+18,0.00,0.0,,4.8,38.02,13.0,1.1,0.0,12.8
+35,125.00,"5,411.3",Lower Marker,46.2,43.00,110.3,1.2,0.0,110.6
+"10,380",75.00,10.9,Upper Marker,135.8,113.00,151.9,2.9,0.0,125.0
+"12,486",0.00,0.0,,5.6,114.89,7.5,1.0,0.0,5.1
+"13,832",0.00,0.0,,2.7,116.09,6.4,0.7,0.0,2.4
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Average Size [bp],Size distribution in CV [%],Conc. [pg/µl],Molarity [pmol/l],Color
+Region 1,60.26,94.98,1.4,5,485,8.0,1.16,3.7,12930121
+ 
+ 
+Sample Name,sample 9
+ 
+Peak Table
+Size [bp],Conc. [pg/µl],Molarity [pmol/l],Observations,Area,Aligned Migration Time [s],Peak Height,Peak Width,% of Total,Time corrected area
+35,125.00,"5,411.3",Lower Marker,40.4,43.00,94.3,1.2,0.0,96.3
+"10,380",75.00,10.9,Upper Marker,127.2,113.00,133.7,3.6,0.0,117.1
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Average Size [bp],Size distribution in CV [%],Conc. [pg/µl],Molarity [pmol/l],Color
+Region 1,60.26,94.98,1.9,9,335,42.3,1.94,10.2,12930121
+ 
+ 
+Sample Name,sample 10
+ 
+Peak Table
+Size [bp],Conc. [pg/µl],Molarity [pmol/l],Observations,Area,Aligned Migration Time [s],Peak Height,Peak Width,% of Total,Time corrected area
+35,125.00,"5,411.3",Lower Marker,35.7,43.00,81.6,1.2,0.0,84.6
+"10,380",75.00,10.9,Upper Marker,119.1,113.00,116.8,4.3,0.0,109.4
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Average Size [bp],Size distribution in CV [%],Conc. [pg/µl],Molarity [pmol/l],Color
+Region 1,60.26,94.98,2.3,14,414,41.7,2.41,10.8,12930121
+ 
+ 
+Sample Name,sample 11
+ 
+Peak Table
+Size [bp],Conc. [pg/µl],Molarity [pmol/l],Observations,Area,Aligned Migration Time [s],Peak Height,Peak Width,% of Total,Time corrected area
+35,125.00,"5,411.3",Lower Marker,41.5,43.00,96.7,1.1,0.0,98.1
+40,8.41,315.8,,2.7,43.85,6.5,0.8,100.0,6.4
+"10,380",75.00,10.9,Upper Marker,132.4,113.00,144.0,3.5,0.0,122.1
+ 
+Region Table
+Name,From [s],To [s],Corr. Area,% of Total,Average Size [bp],Size distribution in CV [%],Conc. [pg/µl],Molarity [pmol/l],Color
+Region 1,60.26,94.98,2.4,11,253,19.8,2.51,15.5,12930121
+ 
+ 
+Sample Name,Ladder
+ 
+Peak Table
+Size [bp],Conc. [pg/µl],Molarity [pmol/l],Observations,Area,Aligned Migration Time [s],Peak Height,Peak Width,% of Total,Time corrected area
+35,125.00,"5,411.3",Lower Marker,160.3,43.00,79.4,1.3,0.0,160.3
+50,150.00,"4,545.5",Ladder Peak,210.2,45.36,100.5,1.0,0.0,210.2
+100,150.00,"2,272.7",Ladder Peak,208.3,50.90,131.8,1.1,0.0,208.3
+150,150.00,"1,515.2",Ladder Peak,221.3,55.58,151.3,0.9,0.0,221.3
+200,150.00,"1,136.4",Ladder Peak,242.0,60.26,173.2,1.4,0.0,242.0
+300,150.00,757.6,Ladder Peak,270.2,69.39,195.1,2.0,0.0,270.2
+400,150.00,568.2,Ladder Peak,304.8,77.53,210.9,2.2,0.0,304.8
+500,150.00,454.5,Ladder Peak,306.3,83.25,224.1,2.3,0.0,306.3
+600,150.00,378.8,Ladder Peak,336.2,87.84,240.4,2.0,0.0,336.2
+700,150.00,324.7,Ladder Peak,321.1,90.96,237.3,2.5,0.0,321.1
+"1,000",150.00,227.3,Ladder Peak,365.8,94.98,221.8,2.7,0.0,365.8
+"2,000",150.00,113.6,Ladder Peak,412.7,101.55,279.6,2.3,0.0,412.7
+"3,000",150.00,75.8,Ladder Peak,411.4,104.86,294.9,2.4,0.0,411.4
+"7,000",150.00,32.5,Ladder Peak,399.5,109.97,178.2,2.3,0.0,399.5
+"10,380",75.00,10.9,Upper Marker,213.6,113.00,129.9,2.4,0.0,213.6
+ 
+Overall Results:
+Noise:,0.4749339,
